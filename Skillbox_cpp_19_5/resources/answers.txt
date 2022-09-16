@@ -1,0 +1,13 @@
+gladiolus
+40
+Russia
+Rouble
+42
+C++
+299792458
+Sherlock
+Harry
+3
+bible
+std::cout
+me
